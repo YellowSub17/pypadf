@@ -76,7 +76,7 @@ class paramsPADF(params):
         number density in atoms per Angstrom^-3 (default 0.1 A^-3). If not set, consider the padf in arbitraty units
 
     beamnorm: float
-        normalization for the experimental intensity (r_e^2 I_0 d\Omega)
+        normalization for the experimental intensity (r_e^2 I_0 d\\Omega)
         (TODO add a script to pre-calculate)
 
     svdcutoff : float
